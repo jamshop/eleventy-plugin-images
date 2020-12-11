@@ -54,6 +54,6 @@ In templates:
 
 #### URL only  
 
-````
+```
 {% imageURL "test-image.jpg", 500, 250, "south" %}{% imageURL "test-image.jpg", 500, 250, "south" %}
 ```
