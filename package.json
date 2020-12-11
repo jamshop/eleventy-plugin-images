@@ -1,0 +1,12 @@
+{
+  "name": "@jamshop/eleventy-plugin-images",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fast-memoize": "^2.5.2",
+    "fs-extra": "^9.0.1",
+    "path": "^0.12.7",
+    "sharp": "^0.26.3"
+  }
+}
