@@ -28,7 +28,7 @@ In templates:
 {% image filename, alt_text, width, height, gravity %}
 ```
 
-#### Single dimention (no crop)
+#### Single dimension (no crop)
 ````
 {% image "test-image.jpg", "a beach from above" 200 %}
 ````
